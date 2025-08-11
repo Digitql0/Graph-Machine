@@ -1,0 +1,3 @@
+[submodule "external/MiniGL"]
+	path = external/MiniGL
+	url = https://github.com/Digitql0/MiniGL
