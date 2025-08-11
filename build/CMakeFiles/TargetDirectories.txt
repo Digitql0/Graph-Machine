@@ -1,7 +1,0 @@
-/home/digitql/Projects/Active/Graph-Machine/build/CMakeFiles/graph_machine.dir
-/home/digitql/Projects/Active/Graph-Machine/build/CMakeFiles/edit_cache.dir
-/home/digitql/Projects/Active/Graph-Machine/build/CMakeFiles/rebuild_cache.dir
-/home/digitql/Projects/Active/Graph-Machine/build/external/MiniGL/CMakeFiles/MiniGL.dir
-/home/digitql/Projects/Active/Graph-Machine/build/external/MiniGL/CMakeFiles/MiniGLApp.dir
-/home/digitql/Projects/Active/Graph-Machine/build/external/MiniGL/CMakeFiles/edit_cache.dir
-/home/digitql/Projects/Active/Graph-Machine/build/external/MiniGL/CMakeFiles/rebuild_cache.dir

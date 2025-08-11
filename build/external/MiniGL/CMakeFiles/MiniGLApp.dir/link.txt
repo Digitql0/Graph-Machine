@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/MiniGLApp.dir/link.d CMakeFiles/MiniGLApp.dir/src/main.cpp.o -o MiniGLApp  libMiniGL.a /usr/lib/libglfw.so.3.4 /usr/lib/libGL.so -ldl -lm -lpthread

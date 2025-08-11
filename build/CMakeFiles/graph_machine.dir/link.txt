@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/graph_machine.dir/link.d CMakeFiles/graph_machine.dir/src/graph_maker.cpp.o CMakeFiles/graph_machine.dir/src/main.cpp.o -o graph_machine  external/MiniGL/libMiniGL.a /usr/lib/libglfw.so.3.4 /usr/lib/libGL.so -ldl -lm -lpthread

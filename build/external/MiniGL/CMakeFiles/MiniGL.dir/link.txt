@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMiniGL.a CMakeFiles/MiniGL.dir/src/MiniGL.cpp.o CMakeFiles/MiniGL.dir/src/RenderGlobals.cpp.o CMakeFiles/MiniGL.dir/src/drawing.cpp.o CMakeFiles/MiniGL.dir/src/glad.c.o CMakeFiles/MiniGL.dir/src/input.cpp.o CMakeFiles/MiniGL.dir/src/shader.cpp.o CMakeFiles/MiniGL.dir/src/window.cpp.o
-/usr/bin/ranlib libMiniGL.a
